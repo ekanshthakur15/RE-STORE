@@ -32,4 +32,13 @@ hash
 is displayed on the screen. The user can click on the transaction hash to see the transaction on Etherscan.
 
 ## Photos of the Project
-![Screenshot 2024-04-22 at 9.53.22 PM.png](Images%2FScreenshot%202024-04-22%20at%209.53.22%E2%80%AFPM.png)![Screenshot 2024-04-22 at 9.53.42 PM.png](Images%2FScreenshot%202024-04-22%20at%209.53.42%E2%80%AFPM.png)![Screenshot 2024-04-22 at 10.16.59 PM.png](Images%2FScreenshot%202024-04-22%20at%2010.16.59%E2%80%AFPM.png)![Screenshot 2024-04-22 at 10.21.11 PM.png](Images%2FScreenshot%202024-04-22%20at%2010.21.11%E2%80%AFPM.png)![Screenshot 2024-04-22 at 10.22.00 PM.png](Images%2FScreenshot%202024-04-22%20at%2010.22.00%E2%80%AFPM.png)
+<img width="1680" alt="Screenshot 2024-04-22 at 9 53 22 PM" src="https://github.com/ekanshthakur15/RE-STORE/assets/99100158/cff80aac-29ff-424e-80ee-640cea69052b">
+<img width="1680" alt="Screenshot 2024-04-22 at 9 53 42 PM" src="https://github.com/ekanshthakur15/RE-STORE/assets/99100158/592cc536-41f1-4026-8832-c1aebf350ecb">
+
+<img width="1680" alt="Screenshot 2024-04-22 at 10 21 11 PM" src="https://github.com/ekanshthakur15/RE-STORE/assets/99100158/9af65369-5f79-41b5-88a3-f529f3bab2d4">
+<img width="1680" alt="Screenshot 2024-04-22 at 10 22 00 PM" src="https://github.com/ekanshthakur15/RE-STORE/assets/99100158/d7741e31-54e0-4fa2-a6e7-d3e6f25d693e">
+<img width="1680" alt="Screenshot 2024-04-22 at 10 16 59 PM" src="https://github.com/ekanshthakur15/RE-STORE/assets/99100158/047bde1e-53e7-4a42-bc6f-9289d81fbaac">
+
+
+
+
